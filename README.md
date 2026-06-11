@@ -177,5 +177,4 @@ Developed an interactive Power BI dashboard featuring:
 
 LinkedIn: https://www.linkedin.com/in/nagi-mohamed-758662263/
 
-GitHub: https://github.com/NagiMohamed/Sales-analysis-project/blob/main/README.md
-
+GitHub: https://github.com/NagiMohamed
