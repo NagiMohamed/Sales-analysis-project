@@ -173,8 +173,18 @@ Developed an interactive Power BI dashboard featuring:
 
 ---
 
+## Certifications
+
+- [HackerRank SQL (Advanced) Certificate](https://www.hackerrank.com/certificates/a919c82e0507)
+
+- [HackerRank Python (Intermediate) Certificate](https://www.hackerrank.com/certificates/731f752edb9f) 
+
+- [HackerRank Python (Basic) Certificate](https://www.hackerrank.com/certificates/256c590efe87)
+    
+---
+
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/nagi-mohamed-758662263/
+[LinkedIn](https://www.linkedin.com/in/nagi-mohamed-758662263/) 
 
-GitHub: https://github.com/NagiMohamed
+[GitHub](https://github.com/NagiMohamed) 
