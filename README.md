@@ -163,13 +163,13 @@ Developed an interactive Power BI dashboard featuring:
 
 ### Power BI Dashboard
 
-![Power BI Dashboard 1](/Image/powerbi_dashboard_1.png)
+![Power BI Dashboard 1](/Images/powerbi_dashboard_1.png)
 
-![Power BI Dashboard 2](/Image/powerbi_dashboard_2.png)
+![Power BI Dashboard 2](/Images/powerbi_dashboard_2.png)
 
 ### Excel Dashboard
 
-![Excel Dashboard](/Image/Excel_dashboard.png)
+![Excel Dashboard](/Images/Excel_dashboard.png)
 
 ---
 
